@@ -26,6 +26,7 @@ Track changes, add files, commit changes, once the app running create a new bran
      
   6. Edit:
   * DaisyUI Theme - line 2 `django-counter-app/counter/templates/counter/index.html`
+    pick one from the list of [themes](https://daisyui.com/docs/themes/)
   * Card title adding your name after the first ">" - line 19 `django-counter-app/counter/templates/counter/index.html`
     
     ```
